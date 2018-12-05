@@ -1,4 +1,10 @@
-# accelerated-mobile-pages-foundations
+# AMP Fundamentals
+
+AMP Fundamentals course from Google Codelabs
+
+[Link to Codelabs](https://codelabs.developers.google.com/codelabs/accelerated-mobile-pages-foundations/index.html?index=..%2F..index#0)
+
+## accelerated-mobile-pages-foundations
 
 This folder contains the source code for a Google I/O 2016 codelab.
 
